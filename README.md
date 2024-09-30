@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @babaalthaf
-- 👀 I’m interested in skeching and coding
+- 👀 I’m interested in sketching and coding
 - 🌱 I’m currently learning Data science
 - 📫 Reach me by whatsapp no 9182034523
 
